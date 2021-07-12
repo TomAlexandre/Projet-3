@@ -1,0 +1,15 @@
+{
+  "name": "projet-3",
+  "version": "1.0.0",
+  "description": "Projet 3 openclassrooms",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./style.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomAlexandre?tab=repositories"
+  },
+  "author": "Tom Alexandre",
+  "license": "ISC"
+}
